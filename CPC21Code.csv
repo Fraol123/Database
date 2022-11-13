@@ -1,4 +1,4 @@
-﻿Names,CPC21Code
+﻿ProductDescription,CPC21Code
  Activities of sports clubs,96512
  Defence activities,9124; 9125
  Funeral and related activities,973
@@ -53,7 +53,7 @@ Administration,91
 ADMINISTRATION PUBLIQUE GENERALE ET SECURITE ,91
 Advertising,8361
 Advertising and Market Research services,8361; 837
-Agriculture ,01
+Agriculture ,1
 Agriculture support services,861
 "AGRICULTURE, SYLVICULTURE, CHASSE, EXPLOITATI",01; 02; 03
 Air Transport service,6424;6531
@@ -70,7 +70,7 @@ Armazenagem e serviços auxiliares,67
 Articles of concrete,375
 "Articles of concrete, cement and plaster",375
 Audio-Visual Production and Distribution services,961
-Autres agricultures,01
+Autres agricultures,1
 AUTRES EXTRACTIONS DE MINERAIS,15; 16
 AUTRES INDUSTRIES MANUFACTURIERES,26; 27; 28; 29
 Autres produits agro-alimentaires,213; 214; 22
@@ -103,7 +103,7 @@ Basic chemicals,34
 Basic chemicals ,341; 342; 343; 344; 345; 347; 348
 Basic metals,41
 Basic non-ferrous metals products,142
-Batata rena,0151
+Batata rena,151
 Batimemt et produit des Travaux publics,51; 52; 53; 54
 Batiment et travaux publics,53; 54
 Beans,1241
@@ -265,7 +265,7 @@ FABRICATION DE MEUBLES. INDUSTRIES DIVERSES,38
 Farinha de trigo,2311
 Farinha e fuba de mandioca,2317
 Farinha e fuba de milho,2312;
-Feijão,017
+Feijão,17
 "Fertilizers, pesticides",346
 "Fibre de coton, textile, habillement, produits en cuir",26; 27; 28; 29
 Financial and related services,71
@@ -274,19 +274,19 @@ Financial services,711; 712
 Finishing of textiles,265; 266; 267
 Firewood,313
 Fish ,212
-Fish and other fishing products,04
-Fish and other fishing products (green),04
+Fish and other fishing products,4
+Fish and other fishing products (green),4
 Fishing,103
-Fishing ,04
+Fishing ,4
 FISIM,71
 Flowers,1962
 Food and Beverage Service ,63
 Food n.e.c.,239
 Footwear,293; 294; 295; 296
 Foreign affairs,912
-Forestry ,03
-Forestry and logging products,03
-Forestry and logging products (green),03
+Forestry ,3
+Forestry and logging products,3
+Forestry and logging products (green),3
 Freight air transport,653
 Freight rail transport,6512
 Freight transport ,65
@@ -301,7 +301,7 @@ Gambling and Betting services,9692
 Gasóleo e outros derivados de petróleo,3332; 3334; 3335; 3337; 3339; 334; 335
 Gasolina,3336
 Gasolina de aviação,33312; 3332
-Gathering of non-wood forest products,032
+Gathering of non-wood forest products,32
 General cleaning of buildings,8533
 General machinery,439
 General secondary education,9231; 9233
@@ -315,19 +315,19 @@ Grain mill products,231
 Ground Nuts,1422
 Growing of beverage crops,0161; 0162; 0163; 0164
 "Growing of cereals (except rice), leguminous crops and oil seeds",0111; 0112; 0114; 0115; 0116; 0117; 0118; 0119; 0124; 0141; 0142; 0143; 0144
-Growing of citrus fruits,0132
-Growing of fibre crops,0192
-Growing of grapes,0133
+Growing of citrus fruits,132
+Growing of fibre crops,192
+Growing of grapes,133
 Growing of oleaginous fruits,0145; 0146; 0149
 Growing of other non-perennial crops,0191; '0194; '01961; '01962; '0195
 Growing of other perennial crops,017; 0199
 Growing of other tree and bush fruits and nuts,0135; 0137
-Growing of pome fruits and stone fruits,0134
-Growing of rice,0113
+Growing of pome fruits and stone fruits,134
+Growing of rice,113
 "Growing of spices, aromatic, drug and pharmaceutical crops",0165; 0193; 0169
-Growing of sugar cane,01802
-Growing of tobacco,01970
-Growing of tropical and subtropical fruits,0131
+Growing of sugar cane,1802
+Growing of tobacco,1970
+Growing of tropical and subtropical fruits,131
 "Growing of vegetables and melons, roots and tubers",0121; 0122; 0123; 0125; 0126; 0127; 0129; 15
 Head Offices; Management Consultancies Services,8311
 "Health, social services",93
@@ -382,9 +382,9 @@ Lenha e outros produtos da silvicultura,031; 032
 Library and archives activities,845
 Life insurance,71311
 Lifting equipment,435
-Live animal ,02
-Live animals and animal products (excluding meat),02
-Logging,031
+Live animal ,2
+Live animals and animal products (excluding meat),2
+Logging,31
 "Machine, matériels  électriques",43; 44; 45; 46; 47; 48; 49
 Machinery and Equipment n.e.c.,103
 "Machines, equipement",43; 44; 45; 46; 47; 48
@@ -395,7 +395,7 @@ Maintenance and repair of motor vehicles,87141
 "Maintenance, repair and installation (except construction)  (green)",87
 Maize,112
 Management consultancy activities,8311
-Mandioca,0152
+Mandioca,152
 Manufacture of agricultural and forestry machinery,441
 Manufacture of air and spacecraft and related machinery,496
 "Manufacture of articles of concrete, cement and plaster",375
@@ -515,7 +515,7 @@ Manufacturing services on physical inputs owned by others,88
 Maquinaria para usos especiais,44; 45; 47; 48
 "Maquinaria para usos gerais e equipamentos, excepto de transporte",43; 46
 Marine aquaculture,043; 044; 045
-Marine fishing,042
+Marine fishing,42
 Market research and public opinion polling,837
 Materials recovery,894
 Matériaux de construction,36; 37
@@ -531,7 +531,7 @@ Metal ores,14
 METALLURGIE,379
 "Meubles, produits des industries diverses",38
 Meubles; produits des industries div. et Sce ,38
-"Milho, trigo e outros cereais",011
+"Milho, trigo e outros cereais",11
 Millet,118
 Minerais metálicos e outros minerais não metálicos,013; 014; 015; 0161; 0162
 Mineraux non metalliques,13; 14; 16
@@ -620,7 +620,7 @@ Outros produtos minerais não metálicos,371; 372; 373; 376; 379
 "Outros serviços colectivos, sociais e pessoais",95; 96; 97; 94
 Outros serviços prestados às empresas,831; 832; 833; 834; 835; 839; 851; 854; 855; 859
 Packaging activities,854
-Paddy,01
+Paddy,1
 "Paint, related products",351
 "Paint, vanishes and similar products",103
 Paper and Paper Products,321
@@ -638,10 +638,10 @@ Passenger transport services,64
 "Pasta para papel, papel, cartão, outros artigos de papel e cartão, edição e impressão",32
 Pasta products,237
 Pd. Pétrol. Raf.; cokes ; prd. des indust. Nucléa.,33; 34; 35
-PDTS AGRICOLES POUR L'INDUSTRIE OU L'EXPORTAT,01
+PDTS AGRICOLES POUR L'INDUSTRIE OU L'EXPORTAT,1
 "PDTS DES INDUSTRIES ALIMENTAIRES, BOISSONS & TABAC",21; 22; 23; 24; 25
 Peas (Field),1242
-"PECHE, AQUACULTURE",04
+"PECHE, AQUACULTURE",4
 "Peixe vivo, fresco e refrigerado",042: 041
 Pension funding,71312; 71313
 Pétrole brut,12
@@ -678,25 +678,25 @@ Processing and preserving of meat,211
 "PROD METAL,TRAV MET,MACHINES, MAT TRANSP",41; 42; 43; 44; 45; 46; 47; 48; 49
 "PROD PETROLIERS, CHIMIQUES, MAT PLAST, CAOUTC","33; 34; 35; 36
 "
-"PROD.  SYLVICULTURE EXPLOITATION FORET, SERV.",03
+"PROD.  SYLVICULTURE EXPLOITATION FORET, SERV.",3
 PROD. EXPLOITATION FORESTIERE ; PROD. PECHE,03; 04
 "PROD. PECHE, SYLVICULT., EXPLOIT. FORET,SERV.",03; 04
 "PRODUCTION D'ELECTRICITE,GAZ ET EAU","17, 18"
 "PRODUCTION ET DISTRIBUTION D'EAU, ASSAINISSEM",18; 692; 94
 "PRODUCTION ET DISTRIBUTION D'ELECTRICITE, D'E",17; 18
 "Production et distribution d'électricité, de gaz et d'eau",17; 18
-"Products of agriculture, horticulture and market gardening",01
+"Products of agriculture, horticulture and market gardening",1
 "Products of wood, cork, straw and plaiting materials",31
 Produit attente niveau1,0
 PRODUIT D'ATTENTE,0
 PRODUIT EN ATTENTE,0
 Produit laitiers; produits a base de fruits e,23
-PRODUITD AGRICOLES DESTINES A L'INDUSTRIE OU ,01
+PRODUITD AGRICOLES DESTINES A L'INDUSTRIE OU ,1
 Produits à base de céréales,23
 Produits à base de tabac,25
-PRODUITS AGRICOLES,01
-Produits agricoles destines a l'export ou a l'industrie,01
-PRODUITS AGRICOLES DESTINES A L'EXPORTATION,01
+PRODUITS AGRICOLES,1
+Produits agricoles destines a l'export ou a l'industrie,1
+PRODUITS AGRICOLES DESTINES A L'EXPORTATION,1
 PRODUITS AGRICOLES ET FORESTIERS; PDTS DE LA PECHE,01; 02; 03; 04
 PRODUITS AGRICOLES et SYLVICOLES,01; 03
 PRODUITS AGRO - ALIMENTAIRES,21; 22; 23; 24
@@ -706,31 +706,31 @@ Produits alimentaires transfomés,23
 "Produits alimentaires, boissons tabac",21; 22; 23; 24; 25
 Produits chimiques,34; 35
 PRODUITS CHIMIQUES DE BASE,34; 35
-PRODUITS DE LA CHASSE; SERVICES ANNEXES A L'A,02
-"Produits de la foret, exploitation forestiere,..",03
-PRODUITS DE LA PECHE,04
-Produits de la pêche et de la pisciculture,04
-"PRODUITS DE LA PECHE, DE LA PISCICULTURE ET D",04
-"PRODUITS DE LA PÊCHE, DE LA PISCICULTURE ET D",04
-PRODUITS DE LA PECHE; DE LA PISCICULTURE ET D,04
-Produits de la sylviculture et de l'exploitation forestière,03
-"PRODUITS DE LA SYLVICULTURE, DE L'EXPLOITATIO",03
+PRODUITS DE LA CHASSE; SERVICES ANNEXES A L'A,2
+"Produits de la foret, exploitation forestiere,..",3
+PRODUITS DE LA PECHE,4
+Produits de la pêche et de la pisciculture,4
+"PRODUITS DE LA PECHE, DE LA PISCICULTURE ET D",4
+"PRODUITS DE LA PÊCHE, DE LA PISCICULTURE ET D",4
+PRODUITS DE LA PECHE; DE LA PISCICULTURE ET D,4
+Produits de la sylviculture et de l'exploitation forestière,3
+"PRODUITS DE LA SYLVICULTURE, DE L'EXPLOITATIO",3
 Produits de la transformes des cereales ,23
 Produits de l'abattage et de la transformation de la viande et du poisson,211; 212
 Produits de l'activité carrière,15
-Produits de l'agriculture,01
-Produits de l'agriculture de rente et industrielle,01
-Produits de l'agriculture d'exportation,01
-PRODUITS DE L'AGRICULTURE ET ACTIVITES ANNEXE,01
-Produits de l'agriculture industrielle et d'exportation,01
-Produits de l'agriculture vivriere,01
-Produits de l'agriculture vivrière,01
-Produits de le peche et de la pisciculture,04
-PRODUITS DE L'ELEVAGE,02
-PRODUITS DE L'ELEVAGE ET DE LA CHASSE,02
-Produits de l'élevage et de la chasse,02
-"PRODUITS DE L'ELEVAGE, DE LA CHASSE ET ACTIVI",02
-"PRODUITS DE L'ELEVAGE, DE LA CHASSE ET D'ACTI",02
+Produits de l'agriculture,1
+Produits de l'agriculture de rente et industrielle,1
+Produits de l'agriculture d'exportation,1
+PRODUITS DE L'AGRICULTURE ET ACTIVITES ANNEXE,1
+Produits de l'agriculture industrielle et d'exportation,1
+Produits de l'agriculture vivriere,1
+Produits de l'agriculture vivrière,1
+Produits de le peche et de la pisciculture,4
+PRODUITS DE L'ELEVAGE,2
+PRODUITS DE L'ELEVAGE ET DE LA CHASSE,2
+Produits de l'élevage et de la chasse,2
+"PRODUITS DE L'ELEVAGE, DE LA CHASSE ET ACTIVI",2
+"PRODUITS DE L'ELEVAGE, DE LA CHASSE ET D'ACTI",2
 "Produits de l'élevage, de la sylviculture, de la pèche",02; 03; 04
 PRODUITS DE L'EXTRACTION,11; 12; 13; 14; 15; 16
 PRODUITS DE L'INDUSTRIE AGROALIMENTAIRE,21; 22; 23; 24; 25
@@ -763,11 +763,11 @@ Produits métalliques de base et ouvrages en m,41; 42
 "PRODUITS METALLURGIQUES, OUVRAGES EN METAUX, ",41; 42; 43; 44; 45; 46; 47; 48; 49
 Produits minéraux non métalliques et de matériaux de construction,36; 37
 Produits pétroliers,33
-Produits sylvicoles,03
+Produits sylvicoles,3
 "PRODUITS TEXTILES, ARTICLES D'HABILLEMENT",26; 27; 28
 "PRODUITS TEXTILES, TRAV.CUIR, ART. VOY. CHAUS","
 26; 27; 28; 29; "
-Produits vivriers,01
+Produits vivriers,1
 Produtos de borracha e de plástico,36
 "Produtos de madeira, excepto mobília",31
 Produtos de padaria e massas alimentícias,234; 2318
@@ -802,9 +802,9 @@ Raising of camels and camelids,2121
 Raising of cattle and buffaloes,02111; 02112
 Raising of horses and other equines,213
 Raising of other animals,0219; 02129
-Raising of poultry,0215
+Raising of poultry,215
 Raising of sheep and goats,02122; 02123
-Raising of swine/pigs,0214
+Raising of swine/pigs,214
 Real estate activities on a fee or contract basis,722
 Real Estate Activities on fee or Contract basis,722
 Real Estate Activities with Own or leased Property,721
@@ -870,7 +870,7 @@ Service activities related to printing,327; 328
 Service d'adminitration publique,91
 Service de reparation de vehicule et motocycle,87
 Service d'hotellerie et de restauration,63
-Service d'intermédiation financière indirectement mesuré,00
+Service d'intermédiation financière indirectement mesuré,0
 "Service immobilie, service aux entreprises",72; 73; 81; 82; 83; 85; 86; 88; 89
 SERVICES  FINANCIERS,71
 "SERVICES  IMMOBILIERS, SPECIALISES, SCIENTIFI",72; 73; 81; 82; 83
@@ -946,7 +946,7 @@ Sheep,2122
 Ships and boats,493; 494
 Short term accommodation activities,6311
 SIFIM,0
-Silviculture and other forestry activities,031
+Silviculture and other forestry activities,31
 SimSim (Sesame),1444
 Site preparation,5432; 5433; 5434
 "Soap, cleaning, perfume",353
@@ -977,7 +977,7 @@ Support services,85; 86; 87
 Supporting transport services,66; 67
 Sweet Potatoes,153
 Swine/Pigs,214
-Sylviculture,03
+Sylviculture,3
 "Tanks, reservoirs",422
 Tanning and dressing of leather; dressing and dyeing of fur,2831; 291
 Tavaux de construction,53; 54
@@ -1020,7 +1020,7 @@ Uranium,13
 Urban and suburban passenger land transport,6411
 Vanilla,1658
 Vegetables ,213
-Vegetables and Melons,012
+Vegetables and Melons,12
 VENTE,61; 62
 Vente en gros et de et au détail,61; 62
 Vente en gros et en détail,61; 62
@@ -1052,4 +1052,3 @@ Wholesale trade services,61; 62
 Wired telecommunications activities,8412
 Wireless telecommunications activities,8413
 Wood products,31
-,
